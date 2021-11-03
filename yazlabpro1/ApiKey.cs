@@ -8,6 +8,6 @@ namespace yazlabpro1
 {
     class ApiKey
     {
-        public static string Key { get; } = @"AIzaSyDyXuOpWKHqH3Ybjdy9jvrT4zRHPP6reug";
+        public static string Key { get; } = @"Enter ApiKey";
     }
 }
