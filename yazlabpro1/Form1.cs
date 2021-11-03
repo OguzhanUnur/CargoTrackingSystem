@@ -18,8 +18,8 @@ namespace yazlabpro1
         IFirebaseConfig ifare = new FirebaseConfig()
         {
 
-            AuthSecret = "5EG9VCcyxhG9Fx7bOOFi43CYDgsV9pedv31N2I1s",
-            BasePath = "https://ozjkargo-9f971-default-rtdb.firebaseio.com/"
+            AuthSecret = "Enter AuthSecret",
+            BasePath = "Enter BasePath"
 
         };
         IFirebaseClient client;
